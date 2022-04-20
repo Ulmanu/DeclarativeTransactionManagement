@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ThirdSpringFailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="IntroductionTransactionManagement" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.endava.tx.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.endava.tx.ThirdSpringFailApplication" />
+    <option name="VM_PARAMETERS" value="-javaagent:$MAVEN_REPOSITORY$/org/springframework/spring-agent/2.5.6.SEC03/spring-agent-2.5.6.SEC03.jar -javaagent:$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.7/aspectjweaver-1.9.7.jar" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
